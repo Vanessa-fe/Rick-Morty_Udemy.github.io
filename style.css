@@ -65,7 +65,7 @@ body {
 	bottom: -30px;
 }
 
-.mole {
+.head {
 	background: url("rick_pics/rick.png") bottom center no-repeat;
 	background-size: 60%;
 	position: absolute;
@@ -75,7 +75,7 @@ body {
 	transition: all 0.4s;
 }
 
-.hole.up .mole {
+.hole.up .head {
 	top: 0;
 }
 
